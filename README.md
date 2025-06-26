@@ -28,7 +28,32 @@ Master Git & GitHub (CLI + Desktop) with real projects, team workflows, GitHub P
 - Create repos, commit, and push via Desktop & CLI
 - Use `.gitignore`
 
-**🔧 Mini Project**: Push a Python To-Do App
+**Learning Goals**: Install & configure Git/GitHub, push projects using Desktop
+
+🔍 What to search:
+
+    how to install Git and GitHub Desktop on Windows/Linux/Mac
+
+    how to configure global Git username and email
+
+    how to create a GitHub repo and push code using GitHub Desktop
+
+    how to push code using Git CLI
+
+    what is .gitignore and how to use it in a Python project
+
+    basic Git commands for beginners
+
+**🔧 Mini Task**: 
+
+- Install [GitHub Desktop](https://desktop.github.com/download/) on your Computer
+  
+- Install [Notepad++](https://notepad-plus-plus.org/downloads/) on your Computer
+- Create a Repository on GitHub with README.md
+
+- Clone Your created Repository on your Computer using GitHub Desktop.  
+ 
+- Change the Something in README.md File using Notepad++ and Push the Changes to GitHub using GitHub Desktop   
 
 ---
 
@@ -38,8 +63,29 @@ Master Git & GitHub (CLI + Desktop) with real projects, team workflows, GitHub P
 - Write Markdown-rich READMEs
 - Add collaborators
 
-**🔧 Mini Project**: Portfolio repo with `main` and `dev` branches
+**Learning Goals**: Understand branching, forking, pull requests, Markdown
 
+🔍 What to search:
+
+    how to create and switch branches in Git
+
+    how to merge branches using Git CLI or GitHub
+
+    what is forking in GitHub and how to use it
+
+    how to create a pull request on GitHub
+
+    how to write a professional GitHub README using Markdown
+
+    how to add collaborators to a GitHub repo
+
+**🔧 Mini Project**: Portfolio repo with `main` and `dev` branches  
+
+🔍 What to search:
+
+    how to create a personal portfolio on GitHub
+
+    GitHub branching strategy for beginners
 ---
 
 ### 🟨 Day 3: Issues, Wiki, Projects, Actions
@@ -48,8 +94,29 @@ Master Git & GitHub (CLI + Desktop) with real projects, team workflows, GitHub P
 - Create GitHub Wiki
 - Set up basic GitHub Actions
 
+**Learning Goals**: Manage issues, use GitHub Projects, write documentation, explore GitHub Actions
+
+🔍 What to search:
+
+    how to create and manage GitHub Issues with labels
+
+    how to use GitHub Projects for task management
+
+    how to create a GitHub Wiki for documentation
+
+    how to set up GitHub Actions for Python
+
+    how to write unit tests in Python with unittest
+
+    what is CI/CD with GitHub Actions  
+
 **🔧 Mini Project**: CLI Network Scanner + Wiki + Issues
 
+🔍 What to search:
+
+    Python CLI network scanner tutorial
+
+    how to document a Python project on GitHub using Wiki
 ---
 
 ### 🟧 Day 4: GitHub Pages & Profile
@@ -58,8 +125,28 @@ Master Git & GitHub (CLI + Desktop) with real projects, team workflows, GitHub P
 - Star/fork trending projects
 - Learn commit streak tips
 
+**Learning Goals**: Build GitHub profile, host portfolio using GitHub Pages
+
+🔍 What to search:
+
+    how to create a GitHub Profile README
+
+    how to host a website using GitHub Pages
+
+    GitHub Pages for HTML/CSS portfolio
+
+    how to maintain GitHub commit streak
+
+    how to fork and star trending repositories
+
 **🛠️ Final Project**: Live GitHub Pages portfolio + Profile README + 3–5 projects
 
+🔍 What to search:
+
+    examples of GitHub Profile README for developers
+
+    GitHub Pages portfolio templates for developers
+    
 ---
 
 ## 📚 Practice Tools (Free & Online)
@@ -74,6 +161,8 @@ Master Git & GitHub (CLI + Desktop) with real projects, team workflows, GitHub P
 | Regexr | Useful for writing `.gitignore` rules | https://regexr.com |
 | Codepen | Preview HTML/CSS for portfolio | https://codepen.io |
 | Actions Playground | Sample GitHub Actions | https://github.com/actions/starter-workflows |
+| Notepad++ | Source code editor and Notepad  | https://notepad-plus-plus.org/downloads/ |
+| Visual Studio Code | Integrated Development Environment (IDE)   | https://code.visualstudio.com/ |
 
 ---
 
