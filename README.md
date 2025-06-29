@@ -23,10 +23,10 @@ Master Git & GitHub (CLI + Desktop) with real projects, team workflows, GitHub P
 ## 📆 Daily Breakdown
 
 ### 🟩 Day 1: Setup & GitHub Desktop
-- Install Git and GitHub Desktop
-- Configure Git globally
-- Create repos, commit, and push via Desktop & CLI
-- Use `.gitignore`
+- [ ] Install Git and GitHub Desktop
+- [ ] Configure Git globally
+- [ ] Create repos, commit, and push via Desktop & CLI
+- [ ] Use `.gitignore`
 
 **Learning Goals**: Install & configure Git/GitHub, push projects using Desktop
 
@@ -46,22 +46,22 @@ Master Git & GitHub (CLI + Desktop) with real projects, team workflows, GitHub P
 
 **🔧 Mini Task**: 
 
-- Install [GitHub Desktop](https://desktop.github.com/download/) on your Computer
+- [ ] Install [GitHub Desktop](https://desktop.github.com/download/) on your Computer
   
-- Install [Notepad++](https://notepad-plus-plus.org/downloads/) on your Computer
-- Create a Repository on GitHub with README.md
+- [ ] Install [Notepad++](https://notepad-plus-plus.org/downloads/) on your Computer
+- [ ] Create a Repository on GitHub with README.md
 
-- Clone Your created Repository on your Computer using GitHub Desktop.  
+- [ ] Clone Your created Repository on your Computer using GitHub Desktop.  
  
-- Change the Something in README.md File using Notepad++ and Push the Changes to GitHub using GitHub Desktop   
+- [ ] Change the Something in README.md File using Notepad++ and Push the Changes to GitHub using GitHub Desktop   
 
 ---
 
 ### 🟦 Day 2: Branching & Collaboration
-- Create/switch/merge branches
-- Fork, clone, pull request
-- Write Markdown-rich READMEs
-- Add collaborators
+- [ ] Create/switch/merge branches
+- [ ] Fork, clone, pull request
+- [ ] Write Markdown-rich READMEs
+- [ ] Add collaborators
 
 **Learning Goals**: Understand branching, forking, pull requests, Markdown
 
@@ -89,10 +89,10 @@ Master Git & GitHub (CLI + Desktop) with real projects, team workflows, GitHub P
 ---
 
 ### 🟨 Day 3: Issues, Wiki, Projects, Actions
-- Open/manage Issues with labels
-- Use GitHub Projects (Kanban)
-- Create GitHub Wiki
-- Set up basic GitHub Actions
+- [ ] Open/manage Issues with labels
+- [ ] Use GitHub Projects (Kanban)
+- [ ] Create GitHub Wiki
+- [ ] Set up basic GitHub Actions
 
 **Learning Goals**: Manage issues, use GitHub Projects, write documentation, explore GitHub Actions
 
@@ -120,10 +120,10 @@ Master Git & GitHub (CLI + Desktop) with real projects, team workflows, GitHub P
 ---
 
 ### 🟧 Day 4: GitHub Pages & Profile
-- Create Profile README
-- Host portfolio using GitHub Pages
-- Star/fork trending projects
-- Learn commit streak tips
+- [ ] Create Profile README
+- [ ] Host portfolio using GitHub Pages
+- [ ] Star/fork trending projects
+- [ ] Learn commit streak tips
 
 **Learning Goals**: Build GitHub profile, host portfolio using GitHub Pages
 
