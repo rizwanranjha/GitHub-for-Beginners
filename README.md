@@ -286,6 +286,136 @@ Use platforms like [GitHub Skills](https://skills.github.com/) to earn real badg
 
 ---
 
+## General Git & GitHub Questions ❓ + Common Terms
+
+### 📁 Repositories & Forking
+
+**What is a GitHub repository (repo)?**
+
+> A project space that contains your codebase, version history, issues, pull requests, and collaboration tools.
+
+**What’s the difference between fork and clone?**
+
+* **Fork**: Creates a copy under your GitHub account (used to contribute to other projects).
+* **Clone**: Downloads a copy to your local machine for development.
+
+**What does Code Checkout mean?**
+
+> It refers to checking out (switching to) a specific branch or commit in a repo.
+
+---
+
+### 🔄 Version Control Basics
+
+**What is a commit in Git? (aka Code Commit or Code Check-in)**
+
+> A saved snapshot of code changes. Often called check-in in corporate tools like TFS/Azure DevOps.
+
+**What is the difference between commit, push, and check-in?**
+
+| Term   | Git Meaning            | Also Known As    |
+| ------ | ---------------------- | ---------------- |
+| Commit | Save locally           | Code check-in    |
+| Push   | Upload to GitHub       | Code push        |
+| Pull   | Get latest from remote | Get Latest, Sync |
+| Fetch  | Get changes (no apply) | Update status    |
+
+**What is a `.gitignore` file?**
+
+> A file that tells Git which files/folders to skip (e.g., `node_modules/`, `.env`, etc.)
+
+**What is a merge? What is a rebase?**
+
+* **Merge**: Combines two branches' histories and content.
+* **Rebase**: Moves commits onto a new base, resulting in a linear history.
+
+**What is HEAD in Git?**
+
+> It points to your current commit/branch location — think of it as "you are here."
+
+---
+
+### 🤝 Collaboration & Contributions
+
+**What is a Pull Request (PR)?**
+
+> A formal request to merge your code changes into another branch or repo (usually `main` or `dev`).
+
+**What is a contribution on GitHub?**
+
+> Any visible action tracked by GitHub: commits, pull requests, issue comments, wiki edits, etc.
+
+**What is a collaborator vs contributor?**
+
+* **Collaborator**: Added by repo admin with write access.
+* **Contributor**: Anyone who contributed via PR, issue, etc.
+
+**What is meant by “Get Latest” or “Sync Repo”?**
+
+> These usually refer to pulling the latest commits from the remote repo.
+
+**What is a conflict in Git?**
+
+> Happens when Git can’t auto-merge code and asks the user to manually choose which version to keep.
+
+---
+
+### 🔐 Admin & Security Concepts
+
+**Why is 2FA important on GitHub?**
+
+> It adds an extra layer of security to prevent unauthorized access.
+
+**What is a Branch Protection Rule?**
+
+> Settings that prevent force pushes, require PR reviews, or enforce CI before merging into important branches.
+
+**What is Dependabot?**
+
+> GitHub’s tool that scans for security vulnerabilities in dependencies and suggests automatic updates.
+
+---
+
+### 🛠️ DevOps & Automation
+
+**What is GitHub Actions?**
+
+> A CI/CD tool built into GitHub that lets you automate workflows for build, test, and deployment.
+
+**What is a `.yml` or `.yaml` file in GitHub Actions?**
+
+> A configuration file that defines when and how your workflows should run (e.g., on every push).
+
+**What’s the difference between GitHub-hosted and self-hosted runners?**
+
+* **GitHub-hosted**: Free machines provided by GitHub.
+* **Self-hosted**: Your own machine executes workflow jobs.
+
+**What is Continuous Integration (CI)? What is Continuous Deployment (CD)?**
+
+* **CI**: Automatically testing and integrating code on every push or PR.
+* **CD**: Automatically releasing changes to production after CI succeeds.
+
+---
+
+### 🧠 Bonus: Common Terms & Their Meaning Across Tools
+
+| Git Term | Also Known As        | Seen In                      |
+| -------- | -------------------- | ---------------------------- |
+| commit   | check-in, snapshot   | Git, TFS, Azure DevOps       |
+| push     | upload, publish      | Git, GitHub, GitLab          |
+| pull     | sync, get latest     | GitHub Desktop, Azure DevOps |
+| branch   | feature copy, stream | Git                          |
+| PR       | merge request        | GitHub, GitLab, Bitbucket    |
+| revert   | undo, rollback       | Git                          |
+| HEAD     | current pointer      | Git internals                |
+| stash    | temp save            | Git                          |
+| origin   | remote repo          | Git                          |
+| fetch    | check updates        | Git                          |
+
+
+---
+
 ## 🔗 Practice Platforms
 
 | Tool                                                               | Purpose               |
