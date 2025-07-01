@@ -1,7 +1,6 @@
-
 # GitHub-for-Beginners (Admin-Focused Edition) 🚀
 
-## 🎯 Objective
+## 🌟 Objective
 
 Equip learners with Git & GitHub fluency across different roles, tools (CLI + Desktop), workflows, security features, and DevOps automation, supported by real projects, contribution tracking, and optional certification paths.
 
@@ -30,7 +29,7 @@ Use platforms like [GitHub Skills](https://skills.github.com/) to earn real badg
 
 ---
 
-## 🧭 Learning Tracks Overview
+## 🧽 Learning Tracks Overview
 
 | Track            | Focus Area                                          | Suitable For                          |
 | ---------------- | --------------------------------------------------- | ------------------------------------- |
@@ -52,7 +51,7 @@ Use platforms like [GitHub Skills](https://skills.github.com/) to earn real badg
 * Adding .gitignore files
 * Writing Wiki Pages
 
-### 🎯 Learning Goals
+### 🌟 Learning Goals
 
 * Understand the GitHub interface
 * Use GitHub Desktop to manage repositories
@@ -89,11 +88,18 @@ Use platforms like [GitHub Skills](https://skills.github.com/) to earn real badg
 * Forking, pull requests
 * GitHub Pages
 * GitHub Profile README
+* **Learn GitHub Pages and Jekyll Basics**
 
-### 🎯 Learning Goals
+  * What is GitHub Pages
+  * What is Jekyll and how it works
+  * Creating `_posts` and using themes
+  * Using `README.md` vs `_posts`
+
+### 🌟 Learning Goals
 
 * Understand branching & collaboration
-* Host a basic website
+* Host a basic website using GitHub Pages
+* Use Jekyll to build a blog or portfolio
 * Use PRs and forks effectively
 
 ### 🔍 What to Search
@@ -102,15 +108,19 @@ Use platforms like [GitHub Skills](https://skills.github.com/) to earn real badg
 * How to fork a repository
 * How to create a pull request
 * GitHub Pages hosting for portfolios
+* Jekyll themes, layouts, `_config.yml`
+* What is frontmatter in Jekyll posts
 
 ### 🔧 Mini Project
 
 * Personal Portfolio Repo
 * Use `main` and `dev` branches
+* Add a blog post using Jekyll
 
 ### 🏅 Certification Goal
 
 * Live GitHub Pages site link
+* Jekyll blog post in `_posts/`
 * Proof of fork + PR in public repo
 
 ---
@@ -125,7 +135,7 @@ Use platforms like [GitHub Skills](https://skills.github.com/) to earn real badg
 * Unit testing and CI/CD
 * GitHub Projects and Wiki
 
-### 🎯 Learning Goals
+### 🌟 Learning Goals
 
 * Automate workflows
 * Maintain clean commit history
@@ -162,7 +172,7 @@ Use platforms like [GitHub Skills](https://skills.github.com/) to earn real badg
 * 2FA enforcement
 * Audit logs and activity tracking
 
-### 🎯 Learning Goals
+### 🌟 Learning Goals
 
 * Secure and control repo access
 * Monitor organization activity
@@ -199,7 +209,7 @@ Use platforms like [GitHub Skills](https://skills.github.com/) to earn real badg
 * CD to production environments
 * Slack/webhook notifications
 
-### 🎯 Learning Goals
+### 🌟 Learning Goals
 
 * Build CI/CD pipelines
 * Secure deployments with secrets
